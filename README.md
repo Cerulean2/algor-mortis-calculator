@@ -16,7 +16,7 @@ Project is created with:
 ## Setup
 To run this project, install the zipped folder of this repository and run algormortis.py in any IDE of your liking
 
-You can also create an executable for this program as well if you chose to do so. 
+You can also create an [executable for this program](https://datatofish.com/executable-pyinstaller/) as well if you chose to do so. 
 ```
 $ pip install pyinstaller
 $ cd ../pythonScriptName.py
