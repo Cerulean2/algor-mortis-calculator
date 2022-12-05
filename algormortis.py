@@ -9,7 +9,7 @@ isLoop = 1
 def intro():
     #Fancy Intro & Developer Credit Stuff
     print("/////////////////////////////////////////")
-    print("This Program was made by Andrew Glidden on November 3rd, 2022 and all credits belong to them.")
+    print("This Program was made by Ceru on November 3rd, 2022 and all credits belong to them.")
     print("It's sole purpose is for educational and recreational use to calculator algor mortis efficently.")
     print("You are permitted to redistribute, modify or copy any parts of this program as you wish.")
     print("All rights to this program have been reliquished by the sole owner.")
